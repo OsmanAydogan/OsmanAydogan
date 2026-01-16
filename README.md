@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on **Python and ML**
 
-- 🌱 I’m currently learning **Python**
-
 - 📝 I regularly write articles on [https://medium.com/@aydoganosman17](https://medium.com/@aydoganosman17)
 
 - 📫 How to reach me **aydoganosman17@gmail.com**
